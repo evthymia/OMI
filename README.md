@@ -1,5 +1,5 @@
 # OMI
 Data viz
 
-link to site: [https://github.com/evthymia/OMI/](https://evthymia.github.io/OMI/)
-<iframe title="OMI_test" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7dd528f1-a48f-4fda-8d1d-e69a6d6ddb9e&autoAuth=true&ctid=f215679c-d6db-4abf-96ce-395ff7c296b0" frameborder="0" allowFullScreen="true"></iframe>
+link to site:https://evthymia.github.io/OMI/
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjY0NzU1MzktMzI0Ni00ZDMxLTljZGUtMWExZWU0MjlkMDQzIiwidCI6ImYyMTU2NzljLWQ2ZGItNGFiZi05NmNlLTM5NWZmN2MyOTZiMCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
